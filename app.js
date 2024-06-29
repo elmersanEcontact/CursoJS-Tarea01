@@ -1,3 +1,5 @@
+//Desarrollador: Elmer Sandoval Acosta
+
 // Listado de usuarios válidos (simulado)
 const usuarios = [
     { usuario: 'elmersan', contrasenia: 'elmersan' },
